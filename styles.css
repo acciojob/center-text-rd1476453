@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.image-container {
+	position: relative;
+	display: inline-block
+}
+
+.image-text{
+	position: absolute;
+	left: 50%;
+	top: 0;
+	color: white
+}
